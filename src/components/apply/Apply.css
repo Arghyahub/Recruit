@@ -1,0 +1,56 @@
+#Apply {
+    background-color: #F0F4F5;
+    min-height: 100%;
+}
+
+.hire-nav {
+    background-color: #314C5F;
+    color: white;
+    text-decoration: none;
+    position: fixed;
+    top: 0;
+}
+
+.apply-job {
+    width: 800px;
+    height: 550px;
+    max-width: 90%;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: #fafafa;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+    justify-content: space-around;
+    margin-top: 2rem;
+}
+
+.ip-div {
+    width: 100%;
+    justify-content: space-around;
+}
+
+.appl-ip {
+    outline: none;
+    border: none;
+    padding : 1rem 0.5rem;
+    width: 250px;
+    border-radius: 0.5rem;
+    box-shadow: 0 8px 8px -4px lightblue;
+}
+
+.appl-ip:hover {
+    box-shadow: 0 8px 8px -4px rgb(107, 204, 107);
+}
+
+.resume-btn {
+    margin-right: 0.5rem;
+}
+
+.apply-btn {
+    outline: none;
+    border: none;
+    padding: 0.5rem 1rem;
+    background-color: #05aeb5;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    color: #ffffff;
+}

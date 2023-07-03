@@ -1,0 +1,44 @@
+.hire-nav {
+    background-color: #314C5F;
+    color: white;
+    text-decoration: none;
+}
+
+.appl-wrapper {
+    margin: 2rem 0 0 0;
+    border: 1px solid gray;
+    min-width: 90%;
+}
+
+.job {
+    border: 1px solid gray;
+    width: 100%;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.job-name {
+    cursor: pointer;
+}
+
+.appl {
+    border: 1px solid grey;
+    justify-content: flex-start;
+    text-align: start;
+    padding: 0 0.4rem 0.4rem 0.6rem;
+}
+
+.exp {
+    margin-left: 0.8rem;
+}
+
+.job-txt , .job-comp {
+    margin-top: 3rem;
+}
+
+.job-comp {
+    color: #05aeb5;
+}
+.job-txt {
+    color: rgb(59, 217, 1);
+}
