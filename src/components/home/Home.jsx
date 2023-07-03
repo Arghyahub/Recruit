@@ -1,6 +1,6 @@
 import Navbar from "../navbar/Navbar"
 import "./Home.css"
-import Contact from "../contact/contact"
+import Contact from "../contact/Contact"
 
 import { useNavigate } from "react-router-dom"
 
